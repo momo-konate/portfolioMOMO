@@ -7,6 +7,6 @@ const interval = setInterval(() => {
   
   if (countdown <= 0) {
     clearInterval(interval);
-    window.location.href = "https://momo-konate.github.io/portfolioMOMO/";
+    window.location.href = "https://momo-konate.github.io/portfolioMOMO/succes.html"";
   }
 }, 1000);
